@@ -1,0 +1,5 @@
+android-ffmpeg-tutorial
+
+This project contains 7 tutorials about how to write a video player on Android using ffmpeg. Each of the tutorial corresponds to one tutorial in https://github.com/chelyaev/ffmpeg-tutorial
+
+I'll update the project whenever a new tutorial is completed
