@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">android-ffmpeg-tutorial</string>
+
+    <!-- view text -->
+	<string name="editNumOfFrames_hint">No. of frames to grab</string>
+	<string name="buttonStart_text">Start</string>
+</resources>
