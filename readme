@@ -4,7 +4,7 @@ This project contains 7 tutorials about how to write a video player on Android u
 
 MUST READ:
 Before start coding the player, we will need to compile ffmpeg libraries for Android, please follow the instructions here: 
-http://www.roman10.net/xxx     (not completed yet, will be available soon)
+http://www.roman10.net/how-to-build-ffmpeg-with-ndk-r9/
 
 I'll update the project whenever a new tutorial is completed
 
